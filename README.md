@@ -1,7 +1,7 @@
 # 21173016
 ##
 
-<ing width="" height="" src="./png/포메라니안.png"></ing>
+<img width="" height="" src="./png/포메라니안.png"></img>
 
 
-<ing width="" height="" src="./JPG/4주차과제.JPG"></ing>
+<ing width="" height="" src="./4주차과제.png"></ing>
